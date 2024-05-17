@@ -1,4 +1,4 @@
-# Hi there, I'm [Naleen]! 👋
+# Hi there, I'm Naleen! 👋
 
 ## About Me
 - 🌱 I'm currently learning MERN stack!
