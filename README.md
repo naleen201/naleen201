@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi there, I'm [Naleen]! 👋
 
-<!--
-**naleen201/naleen201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🌱 I'm currently learning MERN stack!
+- 💼 I'm working on a personal proeject currently based on MERN stack!
+- 💬 Ask me about anything!
 
-Here are some ideas to get you started:
+## My GitHub Stats
+[![Naleen's GitHub stats](https://github-readme-stats.vercel.app/api?username=naleen201&show_icons=true&theme=radical)](https://github.com/naleen201)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages and Tools
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naleen201&layout=compact&theme=radical)](https://github.com/naleen201)
+
+## Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/naleen201)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/_naleen)
