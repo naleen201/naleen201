@@ -2,7 +2,7 @@
 
 ## About Me
 - 🌱 I'm currently learning MERN stack!
-- 💼 I'm working on a personal project currently based on MERN stack!
+- 💼 I'm currently working on a personal project based on MERN stack!
 - 💬 Ask me about anything!
 
 ## My GitHub Stats
